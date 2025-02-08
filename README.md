@@ -15,4 +15,7 @@
 - **1:50:33** - Scroll Views  
 - **2:02:48** - Delegate Design Pattern
 
+## Extras: 
+- Animations
+
 #### Fonte: [AppStuff YouTube](https://www.youtube.com/watch?v=lkU5s5V1GTg)
